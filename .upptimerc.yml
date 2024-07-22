@@ -3,14 +3,14 @@ owner: atnauman # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: Psyshare Service
-    url: https://www.psyshare.bihealth.org
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Psyshare service
+    url: https://psyshare.bihealth.org
+  - name: Mellite service
+    url: https://mellite.bihealth.org
+  - name: Spacehack service
+    url: https://spacehack.bihealth.org
+  - name: Cloud Platforum (Sandbox)
+    url: https://sandbox.bihealth.org
   - name: IPv6 test
     url: forwardemail.net
     port: 80
@@ -23,7 +23,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Upptime (Service Status)
   introTitle: "**Service Status** is monitor and status page for data management group services."
   introMessage: This status page shows **real-time** data from the listed services. No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
