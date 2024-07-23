@@ -33,6 +33,8 @@ sites:
     check: "tcp-ping"
     ipv6: true
 status-website:
+  theme: light    
+status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
@@ -40,7 +42,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime (Service Status)
   introTitle: "**Service Status** is monitor and status page for data management group services."
-  introMessage: This is a service status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages.
+  introMessage: This is a service status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). For adding your specific service for status check or reporting an issue please write me (tauseef.nauman@bih-charite.de)
+
   navbar:
     - title: Status
       href: /
