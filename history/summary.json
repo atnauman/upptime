@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1036,
-    "timeDay": 1036,
-    "timeWeek": 1036,
-    "timeMonth": 1036,
-    "timeYear": 1036,
+    "time": 1037,
+    "timeDay": 1037,
+    "timeWeek": 1037,
+    "timeMonth": 1037,
+    "timeYear": 1037,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mellite.bihealth.org.ico",
     "slug": "mellite-service",
     "status": "down",
-    "uptime": "2.37%",
-    "uptimeDay": "2.37%",
-    "uptimeWeek": "2.37%",
-    "uptimeMonth": "2.37%",
-    "uptimeYear": "2.37%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-22": 13
+      "2024-07-23": 80,
+      "2024-07-22": 535
     }
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1471,
-    "timeDay": 1471,
-    "timeWeek": 1471,
-    "timeMonth": 1471,
-    "timeYear": 1471,
+    "time": 1505,
+    "timeDay": 1505,
+    "timeWeek": 1505,
+    "timeMonth": 1505,
+    "timeYear": 1505,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1389,
-    "timeDay": 1389,
-    "timeWeek": 1389,
-    "timeMonth": 1389,
-    "timeYear": 1389,
+    "time": 1377,
+    "timeDay": 1377,
+    "timeWeek": 1377,
+    "timeMonth": 1377,
+    "timeYear": 1377,
     "dailyMinutesDown": {}
   },
   {
@@ -79,18 +80,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sandbox.bihealth.org.ico",
     "slug": "sandbox-api-endpoint-with-data",
     "status": "down",
-    "uptime": "6.88%",
-    "uptimeDay": "6.88%",
-    "uptimeWeek": "6.88%",
-    "uptimeMonth": "6.88%",
-    "uptimeYear": "6.88%",
-    "time": 370,
-    "timeDay": 370,
-    "timeWeek": 370,
-    "timeMonth": 370,
-    "timeYear": 370,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 371,
+    "timeDay": 371,
+    "timeWeek": 371,
+    "timeMonth": 371,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2024-07-22": 0
+      "2024-07-23": 80,
+      "2024-07-22": 522
     }
   },
   {
