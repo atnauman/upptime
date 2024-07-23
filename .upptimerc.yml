@@ -42,7 +42,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime (Service Status)
   introTitle: "**Service Status** is monitor and status page for data management group services."
-  introMessage: This status page shows **real-time** data from the listed services. No server required — just GitHub Actions, Issues, and Pages. For adding your service for status check or reporting an issue please write me at: tauseef.nauman@bih-charite.de
+  introMessage: This status page shows **real-time** data from the listed services. No server required — just GitHub Actions, Issues, and Pages. For adding your service for status check or reporting an issue please write me at: Tauseef Nauman (tauseef.nauman@bih-charite.de) or Sven Twardziok (sven.twardziok@bih-charite.de)
   navbar:
     - title: Status
       href: /
