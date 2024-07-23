@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 994,
-    "timeDay": 994,
-    "timeWeek": 994,
-    "timeMonth": 994,
-    "timeYear": 994,
+    "time": 1000,
+    "timeDay": 1000,
+    "timeWeek": 1000,
+    "timeMonth": 1000,
+    "timeYear": 1000,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-23": 514,
+      "2024-07-23": 519,
       "2024-07-22": 535
     }
   },
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1435,
-    "timeDay": 1435,
-    "timeWeek": 1435,
-    "timeMonth": 1435,
-    "timeYear": 1435,
+    "time": 1411,
+    "timeDay": 1411,
+    "timeWeek": 1411,
+    "timeMonth": 1411,
+    "timeYear": 1411,
     "dailyMinutesDown": {}
   },
   {
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1290,
-    "timeDay": 1290,
-    "timeWeek": 1290,
-    "timeMonth": 1290,
-    "timeYear": 1290,
+    "time": 1283,
+    "timeDay": 1283,
+    "timeWeek": 1283,
+    "timeMonth": 1283,
+    "timeYear": 1283,
     "dailyMinutesDown": {}
   },
   {
@@ -80,18 +80,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jhub.bihealth.org.ico",
     "slug": "environ-mental-jupyterhub",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-23": 19
+      "2024-07-23": 24
     }
   },
   {
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2380,
-    "timeDay": 2380,
-    "timeWeek": 2380,
-    "timeMonth": 2380,
-    "timeYear": 2380,
+    "time": 2419,
+    "timeDay": 2419,
+    "timeWeek": 2419,
+    "timeMonth": 2419,
+    "timeYear": 2419,
     "dailyMinutesDown": {}
   },
   {
@@ -118,18 +118,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/espace-apps.bihealth.org.ico",
     "slug": "espace-2cloud-shiny-server",
     "status": "down",
-    "uptime": "1.17%",
-    "uptimeDay": "1.17%",
-    "uptimeWeek": "1.17%",
-    "uptimeMonth": "1.17%",
-    "uptimeYear": "1.17%",
-    "time": 582,
-    "timeDay": 582,
-    "timeWeek": 582,
-    "timeMonth": 582,
-    "timeYear": 582,
+    "uptime": "0.92%",
+    "uptimeDay": "0.92%",
+    "uptimeWeek": "0.92%",
+    "uptimeMonth": "0.92%",
+    "uptimeYear": "0.92%",
+    "time": 661,
+    "timeDay": 661,
+    "timeWeek": 661,
+    "timeMonth": 661,
+    "timeYear": 661,
     "dailyMinutesDown": {
-      "2024-07-23": 19
+      "2024-07-23": 24
     }
   },
   {
@@ -143,11 +143,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1101,
-    "timeDay": 1101,
-    "timeWeek": 1101,
-    "timeMonth": 1101,
-    "timeYear": 1101,
+    "time": 1129,
+    "timeDay": 1129,
+    "timeWeek": 1129,
+    "timeMonth": 1129,
+    "timeYear": 1129,
     "dailyMinutesDown": {}
   },
   {
@@ -156,18 +156,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/easi-genomics-cloud.bihealth.org.ico",
     "slug": "eas-icloud-jupyterhub",
     "status": "down",
-    "uptime": "0.57%",
-    "uptimeDay": "0.57%",
-    "uptimeWeek": "0.57%",
-    "uptimeMonth": "0.57%",
-    "uptimeYear": "0.57%",
+    "uptime": "0.51%",
+    "uptimeDay": "0.51%",
+    "uptimeWeek": "0.51%",
+    "uptimeMonth": "0.51%",
+    "uptimeYear": "0.51%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-23": 19
+      "2024-07-23": 23
     }
   },
   {
@@ -181,11 +181,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 697,
-    "timeDay": 697,
-    "timeWeek": 697,
-    "timeMonth": 697,
-    "timeYear": 697,
+    "time": 679,
+    "timeDay": 679,
+    "timeWeek": 679,
+    "timeMonth": 679,
+    "timeYear": 679,
     "dailyMinutesDown": {}
   },
   {
@@ -194,18 +194,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/weskit.bihealth.org.ico",
     "slug": "weskitplatform-weskit",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-23": 18
+      "2024-07-23": 23
     }
   },
   {
@@ -219,11 +219,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 881,
-    "timeDay": 881,
-    "timeWeek": 881,
-    "timeMonth": 881,
-    "timeYear": 881,
+    "time": 843,
+    "timeDay": 843,
+    "timeWeek": 843,
+    "timeMonth": 843,
+    "timeYear": 843,
     "dailyMinutesDown": {}
   },
   {
