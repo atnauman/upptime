@@ -11,12 +11,23 @@ sites:
     url: https://spacehack.bihealth.org
   - name: Cloud Platforum (Sandbox)
     url: https://sandbox.bihealth.org
-  - name: Sandbox API endpoint with data
-    method: POST
-    url: https://sandbox.bihealth.org/hub/login
-    headers:
-      - "Content-Type: application/json"
-    body: '{ "password": "hello" }'  
+  - name: environMENTAL (jupyterhub)
+    url: https://jhub.bihealth.org
+  - name: environMENTAL (GeoApp)
+    url: https://environmental.bihealth.org  
+  - name: ESPACE2cloud (Shiny Server)
+    url: https://espace-apps.bihealth.org
+  - name: ESPACE2cloud (Jupyterhub)
+    url: https://espace-cloud.bihealth.org/
+  - name: EASIcloud (Jupyterhub)
+    url: https://easi-genomics-cloud.bihealth.org   
+  - name: SingleCell (Shiny Server)
+    url: https://digital.bihealth.org  
+  - name: Weskitplatform (weskit)
+    url: https://weskit.bihealth.org
+  - name: eosclifeotpdemo (otp)
+    url: https://otp-demo.bihealth.org
+    
   - name: IPv6 test
     url: forwardemail.net
     port: 80
