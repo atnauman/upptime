@@ -27,7 +27,6 @@ sites:
     url: https://weskit.bihealth.org
   - name: eosclifeotpdemo (otp)
     url: https://otp-demo.bihealth.org
-    
   - name: IPv6 test
     url: forwardemail.net
     port: 80
