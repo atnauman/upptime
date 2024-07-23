@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-23": 1044,
+      "2024-07-23": 1052,
       "2024-07-22": 535
     }
   },
@@ -43,19 +43,19 @@
     "url": "https://spacehack.bihealth.org",
     "icon": "https://icons.duckduckgo.com/ip3/spacehack.bihealth.org.ico",
     "slug": "spacehack-service",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1411,
-    "timeDay": 1392,
-    "timeWeek": 1411,
-    "timeMonth": 1411,
-    "timeYear": 1411,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 1365,
+    "timeDay": 1335,
+    "timeWeek": 1365,
+    "timeMonth": 1365,
+    "timeYear": 1365,
     "dailyMinutesDown": {
-      "2024-07-23": 0
+      "2024-07-23": 7
     }
   },
   {
@@ -93,7 +93,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-23": 550
+      "2024-07-23": 557
     }
   },
   {
@@ -131,7 +131,7 @@
     "timeMonth": 661,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2024-07-23": 549
+      "2024-07-23": 557
     }
   },
   {
@@ -169,7 +169,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-23": 549
+      "2024-07-23": 557
     }
   },
   {
@@ -207,7 +207,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-23": 549
+      "2024-07-23": 557
     }
   },
   {
