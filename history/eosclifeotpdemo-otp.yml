@@ -1,7 +1,7 @@
 url: https://otp-demo.bihealth.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-24T05:12:07.202Z
+status: up
+code: 200
+responseTime: 949
+lastUpdated: 2024-07-24T05:27:51.388Z
 startTime: 2024-07-23T08:15:16.914Z
 generator: Upptime <https://github.com/upptime/upptime>
